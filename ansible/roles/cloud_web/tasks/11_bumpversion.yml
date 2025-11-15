@@ -1,4 +1,0 @@
-- name: install bumpversion
-  become: True
-  pip:
-    name: bumpversion
